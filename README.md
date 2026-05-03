@@ -1,6 +1,8 @@
 # Angelo Jas Sespene
 
-## Website LinK: https://asespene.github.io/Lab5_Starter/
+## Website Links: 
+- https://asespene.github.io/Lab5_Starter/expose.html
+- https://asespene.github.io/Lab5_Starter/explore.html
 
 
 
